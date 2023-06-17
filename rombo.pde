@@ -1,4 +1,5 @@
 void rombo(int o, int n, int cant){
+//rombo(posición x, espacio entre lineas, cantidad de lineas);
 
 for(int i = 0; i < cant+1; i++){
     int x = o + i * n;
