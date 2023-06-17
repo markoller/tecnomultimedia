@@ -1,3 +1,6 @@
+//Martina Koller, legajo 93526/7
+//video: https://youtu.be/EHc5xKHPQGA
+
 void setup(){
   size(800, 400);
   colorMode(RGB);
@@ -70,6 +73,7 @@ text("reiniciar", 30, 320);
 fill(255);
 }
 ellipse(50, 360, 50, 50);
+fill(255);
 text("Carlos Ruiz - Diez", width/3, 310);
 
 }
