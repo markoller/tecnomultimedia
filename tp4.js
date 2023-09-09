@@ -1,3 +1,6 @@
+//Martina Koller, 93526/7
+//video: https://www.youtube.com/watch?v=rZVFS6LEzzs
+
 function preload() {
 
   //carga de imagenes
@@ -35,8 +38,8 @@ function setup() {
   y = height/2;
 
   //asignacion de valor pelota
-  px = random(110, 220) || (580, 690);
-  py = random(200, 230) || (450, 510);
+  px = random(110, 220);
+  py = random(200, 450);
   velx = 4;
   vely = 4;
 
