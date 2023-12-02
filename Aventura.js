@@ -3,7 +3,7 @@ class aventura {
   constructor(textos, img) {
     this.bot = [];
     this.pantalla = 0;
-    this.juego = new Juego();
+    this.juego = new juego();
 
     //se crean variables locales para los textos e imágenes
     this.misTextos = textos;
